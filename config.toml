@@ -1,0 +1,4 @@
+baseURL = "https://certified.ninja/"
+languageCode = "en-us"
+title = "certified.ninja"
+theme = "dimension"
